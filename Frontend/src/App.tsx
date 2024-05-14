@@ -1,12 +1,13 @@
+import Canvas from './components/Canvas/Canvans';
 
 
 function App() {
 
-  return (
-    <>
-      hi
-    </>
-  )
+    return (
+        <>
+            <Canvas />
+        </>
+    )
 }
 
-export default App
+export default App;
